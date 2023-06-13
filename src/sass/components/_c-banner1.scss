@@ -1,0 +1,11 @@
+@use 'settings/variables' as v;
+@use 'tools/mixins' as m;
+
+.c-banner1 {
+    &__contenedor {
+        width: 80%;
+        padding: 1rem;
+        @include m.flex (row, nowrap, center, center);
+        @include m.neomorfismo (map-get(v.$colores, color-secundario), map-get(v.$colores, color-secundario), 0.5rem, null, 0.5rem, map-get(v.$colores, color-primario-2), map-get(v.$colores, color-primario-2));
+    }
+}
