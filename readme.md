@@ -1,17 +1,12 @@
 # Título del proyecto
-![Imagen del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DEL-PROYECTO.jpg?raw=true)
+![Imagen del proyecto](https://raw.githubusercontent.com/javicerezo/tienda-online/master/src/assets/img/banner.png)
 
 ## Ejemplo en vivo
-- [URL-de-github-pages-de-este-proyecto](URL-de-github-pages-de-este-proyecto) 🚀
-- [URL-de-la-api](URL-de-la-api)
+- [https://javicerezo.github.io/banner/](URL-de-github-pages-de-este-proyecto) 🚀
 
 ## Descripción 📑
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, ipsum ipsam debitis ducimus dolorum placeat? Consectetur, soluta vero. Accusamus iure est pariatur, doloremque nam cumque natus unde adipisci laborum ut. At id sapiente consequatur earum. Magnam doloribus, voluptate zumito doloremque obcaecati vel excepturi numquam cupiditate ipsam quisquam!
-
-## ¿Qué he aprendido en este proyecto? 🙇🏻 
-
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, ipsum ipsam debitis ducimus dolorum placeat? Consectetur, soluta vero. Accusamus iure est pariatur, doloremque nam cumque natus unde adipisci laborum ut. At id sapiente consequatur earum. Magnam doloribus, voluptate zumito doloremque obcaecati vel excepturi numquam cupiditate ipsam quisquam!
+Dos ejemplos de banner, uno horizontal y otro vertical, sobre los productos de una tienda de montaña. Ejemplo sencillo, hecho en arquitectura BEMIT.
 
 ## Tecnologías 🛠
 <!-- Iconos sacados de y https://github.com/alexandresanlim/Badges4-README.md-Profile -->
@@ -20,24 +15,11 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, 
 [![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://es.wikipedia.org/wiki/Sass)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://es.wikipedia.org/wiki/JavaScript)
 [![GULP](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)](https://es.wikipedia.org/wiki/Gulp)
-[![JEST](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://en.wikipedia.org/wiki/Jest_(framework))
-[![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://es.wikipedia.org/wiki/Python)
-[![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://es.wikipedia.org/wiki/MySQL)
-[![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://es.wikipedia.org/wiki/MongoDB)
-
-## Vista previa del proyecto
-Si quieres hechar un vistazo al proyecto, te recomiendo:
-
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
 
 ## Autor ✒️
-**TU NOMBRE**
+**JAVI CEREZO**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javicerezo/)
-[Behance](https://www.behance.net/tu-url-de-behance)
-[Dribble](https://www.dribble.com/tu-url-de-dribble)
 [![Porfolio web](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://javicerezo.netlify.app/)
 [![Correo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<mailto:jc.webmob@gmail.com>)
 
