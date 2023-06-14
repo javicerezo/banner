@@ -2,10 +2,48 @@
 @use 'tools/mixins' as m;
 
 .c-banner1 {
+    margin: 3rem 0;
     &__contenedor {
         width: 80%;
-        padding: 1rem;
-        @include m.flex (row, nowrap, center, center);
+        margin: 0 auto;
+        @include m.flex (column, nowrap, center, center);
         @include m.neomorfismo (map-get(v.$colores, color-secundario), map-get(v.$colores, color-secundario), 0.5rem, null, 0.5rem, map-get(v.$colores, color-primario-2), map-get(v.$colores, color-primario-2));
+        &-arriba {
+            @include m.flex (row, nowrap, space-around, center);
+            width: 100%;
+            padding: 1rem;
+        }
+        &-abajo {
+            @include m.flex (row, nowrap, center, center);
+            width: 100%;
+            padding: 1rem;
+        }
+    }
+    &__grid {
+        @include m.grid (5, 0.5rem);
+    }
+    &__producto {
+        max-width: 150px;
+        cursor: pointer;
+        transition: transform 0.7s ease;
+        &:hover {
+            transform: scale(1.1);
+        }
+    }
+    &__texto {
+        font-size: 1.2em;
+        width: 20%;
+        p {
+            margin: 0 auto;
+            text-transform: uppercase;
+        }
+    }
+    &__logo {
+        max-width: 10em;
+        margin-right: 2rem;
+    }
+    &__nombre {
+        margin-left: 2rem;
+        font-size: 1.5em;
     }
 }

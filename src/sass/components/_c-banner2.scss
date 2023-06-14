@@ -1,0 +1,22 @@
+@use 'settings/variables' as v;
+@use 'tools/mixins' as m;
+
+.c-banner2 {
+    margin: 3rem 0;
+    &__contenedor {
+        width: 15%;
+        padding: 1rem;
+        margin-left: 1rem;
+        @include m.neomorfismo (map-get(v.$colores, color-secundario), map-get(v.$colores, color-secundario), 0.5rem, null, 0.5rem, map-get(v.$colores, color-primario-2), map-get(v.$colores, color-primario-2));
+        @include m.flex (column, nowrap, center, center);
+    }
+    &__logo {
+        max-width: 10em;
+    }
+    &__nombre {
+        margin: 1rem 0;
+    }
+    &__grid {
+        @include m.grid (1, 0.5rem);
+    }
+}
