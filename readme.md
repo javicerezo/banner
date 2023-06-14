@@ -1,5 +1,5 @@
 # Título del proyecto
-![Imagen del proyecto](https://raw.githubusercontent.com/javicerezo/tienda-online/master/src/assets/img/banner.png)
+![Imagen del proyecto](https://raw.githubusercontent.com/javicerezo/banner/master/src/assets/img/banner.png)
 
 ## Ejemplo en vivo
 - [https://javicerezo.github.io/banner/](URL-de-github-pages-de-este-proyecto) 🚀
