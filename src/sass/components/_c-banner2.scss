@@ -3,6 +3,10 @@
 
 .c-banner2 {
     margin: 3rem 0;
+    display: none;
+    @include m.tablet {
+        display: block;
+    }
     &__contenedor {
         width: 15%;
         padding: 1rem;
