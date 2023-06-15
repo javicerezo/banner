@@ -5,7 +5,6 @@
 - [Haz click para ver el proyecto](https://javicerezo.github.io/banner/) 🚀
 
 ## Descripción 📑
-
 Dos ejemplos de banner, uno horizontal y otro vertical, sobre los productos de una tienda de montaña. Ejemplo sencillo, hecho en arquitectura BEMIT.
 
 ## Tecnologías 🛠
